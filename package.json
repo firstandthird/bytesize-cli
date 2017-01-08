@@ -1,0 +1,28 @@
+{
+  "name": "bytesize-cli",
+  "version": "0.1.0",
+  "author": "Greg Allen <@jgaui> (http://jga.me)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/firstandthird/bytesize-cli.git"
+  },
+  "bin": {
+    "bytesize-cli": "bin.js"
+  },
+  "scripts": {
+    "test": "tape test/*.test.js"
+  },
+  "dependencies": {
+    "yargs": "^6.6.0",
+    "async": "^2.1.4",
+    "bytesize": "^0.2.0"
+  },
+  "eslintConfig": {
+    "extends": "firstandthird"
+  },
+  "devDependencies": {
+    "eslint": "*",
+    "eslint-config-firstandthird": "*",
+    "eslint-plugin-import": "*"
+  }
+}
