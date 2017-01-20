@@ -21,7 +21,7 @@
     "extends": "firstandthird"
   },
   "devDependencies": {
-    "eslint": "*",
+    "eslint": ">=3.14.0",
     "eslint-config-firstandthird": "*",
     "eslint-plugin-import": "*"
   }
