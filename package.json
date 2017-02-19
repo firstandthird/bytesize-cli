@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "yargs": "^6.6.0",
-    "async": "^2.1.4",
+    "async": "^2.1.5",
     "bytesize": "^0.2.0"
   },
   "eslintConfig": {
