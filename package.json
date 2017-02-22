@@ -22,7 +22,7 @@
   },
   "devDependencies": {
     "eslint": "*",
-    "eslint-config-firstandthird": "*",
+    "eslint-config-firstandthird": ">=3.3.0",
     "eslint-plugin-import": "*"
   }
 }
